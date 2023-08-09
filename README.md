@@ -1,4 +1,6 @@
 # Box-Model-2
+Hosted-Link:<br>
+https://yadnika10.github.io/Box-Model-2/
 ![1](https://github.com/yadnika10/Box-Model-2/assets/122971264/bdbf465e-b520-4a26-abe5-df20f2adcdff)
 ![2](https://github.com/yadnika10/Box-Model-2/assets/122971264/2a37b678-8229-484c-aff4-c17233a001bd)
 1.Created 3 divs:<br>
